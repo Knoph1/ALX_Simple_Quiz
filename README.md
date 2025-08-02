@@ -10,7 +10,7 @@ This project is a responsive, styled **User Registration Form** built with advan
 
 ## 📷 Preview
 
-![Form Screenshot](../ALX_Simple_Quiz/screenshots/final_output.png)
+![Form Screenshot](./screenshots/final_output.png)
 
 > Note: The above image is a static representation of the final UI.
 
