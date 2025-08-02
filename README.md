@@ -131,7 +131,7 @@ Knoph O. Ayieko
 
     Web Developer | IT Specialist
     GitHub: Knoph1
-    Email: knophayiek@gmail.com
+    Email: knophayieko@gmail.com
 
 ---
 
