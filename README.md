@@ -1,4 +1,10 @@
-# Advanced HTML Registration Form
+# ALX_SIMPLE_QUIZ
+
+---
+
+---
+
+# TASK 1: Advanced HTML Registration Form
 
 This project is a responsive, styled **User Registration Form** built with advanced HTML, CSS and JavaScript. It features client-side validation, visual feedback for users, and DOM manipulation to ensure interactive and dynamic form behavior.
 
@@ -75,6 +81,7 @@ The logic for validation is executed when the DOM is fully loaded.
 
 ---
 
+
 ## 📌 Notes
 
 > This project is part of an HTML Advanced exercise.
@@ -82,6 +89,31 @@ The logic for validation is executed when the DOM is fully loaded.
 > No external frameworks or libraries are used.
 
 > Ensure JavaScript is enabled in the browser to see validation.
+
+---
+
+---
+
+# TASK 2:
+
+## 📐 Simple Calculator
+
+A responsive browser-based calculator built with HTML, CSS, and JavaScript. Supports:
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+
+### 🔸 Usage
+
+1. Enter two numbers in the input fields.
+2. Click an operation button.
+3. The result appears instantly below.
+
+Includes error handling for division by zero.
+
+---
 
 ---
 
